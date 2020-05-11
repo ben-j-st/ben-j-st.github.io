@@ -17,6 +17,11 @@ h1 {
     padding:10px;
 }
 
+h2 {
+
+    padding: 20px;
+}
+
 
 h2 {
     font-size:24px;
@@ -50,4 +55,5 @@ a:link {
 #bio-image {
     float:left;
     width:200px;
+    margin-right: 20px;
 }
